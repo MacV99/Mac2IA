@@ -1653,8 +1653,8 @@ body.menu-is-open {
 }
 
 .header-logo img {
-  width: 155px;
-  height: 36px;
+  width: 70px;
+
 }
 
 /* ------------------------------------------------------------------- 
@@ -2040,9 +2040,8 @@ body.menu-is-open {
 .s-home {
   width: 100%;
   height: 100vh;
-  min-height: 786px;
   background-image: url(../images/hero-bg.jpg);
-  background-color: rgba(0, 0, 0, 0.822);
+  background-color: rgba(0, 0, 0, 0.856);
   background-blend-mode: multiply;
   position: relative;
   display: table;
